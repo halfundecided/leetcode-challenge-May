@@ -8,13 +8,13 @@ import math
 
 
 def majorityElement(nums):
-     dict = {}
-      length = math.floor(len(nums)/2)
-       for i in range(len(nums)):
-            if nums[i] not in dict:
-                dict[nums[i]] = 1
-            else:
-                dict[nums[i]] += 1
-        for key, value in dict.items():
-            if value > length:
-                return key
+    dict = {}
+    length = math.floor(len(nums)/2)
+    for i in range(len(nums)):
+        if nums[i] not in dict:
+            dict[nums[i]] = 1
+        else:
+            dict[nums[i]] += 1
+    for key, value in dict.items():
+        if value > length:
+            return key
