@@ -11,7 +11,7 @@
 - [May 7, 2020: Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
 - [May 8, 2020: Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
 - [May 9, 2020: Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-- [May 10, 2020: ]()
+- [May 10, 2020: Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [May 11, 2020: ]()
 - [May 12, 2020: ]()
 - [May 13, 2020: ]()
