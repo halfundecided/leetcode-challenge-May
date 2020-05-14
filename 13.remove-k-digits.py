@@ -1,7 +1,7 @@
 """
 May 13, 2020
 Remove K Digits 
-***** Use STACK ****
+***** Use STACK *****
 """
 
 
