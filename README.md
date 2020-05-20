@@ -20,3 +20,4 @@
 - [May 16, 2020: Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 - [May 17, 2020: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [May 18, 2020: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- [May 19, 2020: Online Stock Span](https://leetcode.com/problems/online-stock-span/)
