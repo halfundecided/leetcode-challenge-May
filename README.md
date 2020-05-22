@@ -21,3 +21,6 @@
 - [May 17, 2020: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [May 18, 2020: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 - [May 19, 2020: Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+- [May 20, 2020: Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [May 21, 2020: Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+- [May 22, 2020: Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
