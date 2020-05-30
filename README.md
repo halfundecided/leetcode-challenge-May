@@ -30,3 +30,5 @@
 - [May 26, 2020: Contiguous Array]()
 - [May 27, 2020: Possible Bipartition]()
 - [May 28, 2020: Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [May 29, 2020: Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [May 30, 2020: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
